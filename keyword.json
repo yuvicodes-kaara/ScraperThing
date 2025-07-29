@@ -1,0 +1,101 @@
+{
+    "litigation": {
+      "keywords": [
+        "lawsuit",
+        "litigation",
+        "court case",
+        "legal dispute",
+        "sued",
+        "prosecution",
+        "indictment",
+        "fraud",
+        "criminal charges",
+        "penalty",
+        "fine",
+        "settlement",
+        "legal trouble",
+        "litigate"
+      ],
+      "severity": 8,
+      "description": "Legal and litigation related issues"
+    },
+    "financial_irregularities": {
+      "keywords": [
+        "fraud",
+        "embezzlement",
+        "money laundering",
+        "financial misconduct",
+        "audit irregularities",
+        "accounting fraud",
+        "tax evasion",
+        "insider trading",
+        "ponzi scheme",
+        "financial trouble",
+        "debt"
+      ],
+      "severity": 9,
+      "description": "Financial crimes and irregularities"
+    },
+    "governance": {
+      "keywords": [
+        "corporate governance",
+        "board disputes",
+        "management change",
+        "ceo resignation",
+        "compliance violation",
+        "regulatory action",
+        "license suspension",
+        "governance issue"
+      ],
+      "severity": 7,
+      "description": "Corporate governance issues"
+    },
+    "regulatory": {
+      "keywords": [
+        "regulatory action",
+        "sebi",
+        "rbi",
+        "mca",
+        "compliance",
+        "violation",
+        "penalty",
+        "show cause",
+        "investigation",
+        "regulatory issue"
+      ],
+      "severity": 8,
+      "description": "Regulatory compliance issues"
+    },
+    "reputation": {
+      "keywords": [
+        "scandal",
+        "controversy",
+        "negative publicity",
+        "boycott",
+        "protest",
+        "criticism",
+        "allegations",
+        "reputation damage"
+      ],
+      "severity": 6,
+      "description": "Reputation and public perception issues"
+    },
+    "operational": {
+      "keywords": [
+        "bankruptcy",
+        "insolvency",
+        "closure",
+        "shutdown",
+        "layoffs",
+        "restructuring",
+        "merger",
+        "acquisition",
+        "operational issue",
+        "strike",
+        "privatization"
+      ],
+      "severity": 5,
+      "description": "Operational and business continuity issues"
+    }
+  }
+   

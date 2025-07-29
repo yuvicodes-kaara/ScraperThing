@@ -28,7 +28,6 @@ Chrome/114.0.0.0 Safari/537.36'
     try {
       await page.waitForSelector('p', { timeout: 5000 });
     } catch {
-      // if no <p> shows up, fallback to waiting for network to quiet down
       await page.waitForNetworkIdle({ idleTime: 500, timeout: 10000 });
     }
 
